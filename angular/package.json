@@ -16,7 +16,7 @@
     "ejs": "2.5.5",
     "mongoose": "3.8.40",
     "jsonwebtoken": "^4.2.2",
-    "express-jwt": "0.1.4",
+    "express-jwt": "6.0.0",
     "passport": "~0.2.0",
     "passport-local": "~0.1.6",
     "composable-middleware": "^0.3.0",
